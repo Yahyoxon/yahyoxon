@@ -71,6 +71,6 @@
 
 #### Thank You for visiting😇
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=asadbekdev" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yahyoxon" alt="visitor badge"/>
 </p>
 
